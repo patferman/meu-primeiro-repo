@@ -1,1 +1,1 @@
-#meu nome é Patricia, sou farmacêutica, e estou fazendo o curso de Programação com Enfase em análise de dados na IFPR. 
+Meu nome é Patricia, sou farmacêutica, e estou fazendo o curso de Programação com Enfase em análise de dados na IFPR. 

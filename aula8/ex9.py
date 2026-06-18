@@ -1,7 +1,5 @@
-#Considerando idade e renda. Crie uma expressão booleana para verificar se a pessoa pode solicitar um empréstimo, 
-# considerando que ela deve ser maior de idade e ter renda de pelo menos R$ 2000,00.
-
-idade = int(input('Digite a idade da pessoa: '))
-renda = float(input('Digite a renda da pessoa: '))
-pode_solicitar = (idade >= 18) and (renda >= 2000)
-print(f'A pessoa pode solicitar um empréstimo? {pode_solicitar}')
+#Receba dois números e verifique se pelo menos um deles é negativo com expressão condicional.
+num1 = float(input('Digite o primeiro número: '))
+num2 = float(input('Digite o segundo número: '))    
+tem_negativo = (num1 < 0) or (num2 < 0)
+print(f'Pelo menos um dos números é negativo? {tem_negativo}')

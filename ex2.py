@@ -1,6 +1,5 @@
-#Crie um programa que verifique se um número é par ou ímpar.
-numero = float(input("Digite um número: "))
-if numero % 2 == 0:
-    print("O número é par.")
-else:
-    print("O número é ímpar.")
+#Escreva um programa que calcule a soma dos números de 1 a 100.
+soma = 0
+for i in range(1, 101): 
+    soma = soma + i
+print(f' Resultado: {soma}')

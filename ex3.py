@@ -1,9 +1,3 @@
-idade = int(input("Digite a idade:   "))
-if idade >= 60:
-	print ("Idoso")
-elif idade >= 18:
-	print ("Adulto")
-elif idade >=12:
-	print ("Adolescente")
-else: 
-	print ("Criança")
+#Implementar um programa que imprima todos os números ímpares entre 1 e 50.
+for i in range(1, 51,2): # numero inicial , numero final , step
+   print(i)

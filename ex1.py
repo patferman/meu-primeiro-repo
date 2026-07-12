@@ -1,9 +1,5 @@
-#Crie um programa que verifique e informe se um número é positivo, negativo ou zero.
-numero = float(input("Digite um número: "))
+#Utilizando o laço for, imprimir números de 1 a 10.
 
-if numero > 0:
-    print("O número é positivo.")
-elif numero < 0:
-    print("O número é negativo.")
-else:
-    print("O número é zero.")
+for i in range(11):
+    print(i)
+

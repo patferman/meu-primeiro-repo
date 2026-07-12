@@ -3,7 +3,7 @@
 nota = float(input("Digite a nota:  "))
 faltas = int(input("Digite as faltas:  "))
 
-if nota >= 6 and faltas <=5:    # and em letra minuscula
+if nota >= 6 and faltas <=5:
 	print("Aprovado")
 else:
 	print ("Reprovado")

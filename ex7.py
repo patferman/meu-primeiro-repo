@@ -15,7 +15,7 @@ elif numero % 2 == 0 and numero % 3 != 0:
 elif numero %3 == 0 and numero % 2 != 0:
 	print (	"numero é apenas múltiplo de 3")
 else:
-	print ("numero não é múltiplo de nenhum dos dois")
+	 print ("numero não é múltiplo de nenhum dos dois")
 	
 
 
